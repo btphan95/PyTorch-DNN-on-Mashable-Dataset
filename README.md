@@ -9,3 +9,5 @@ This notebook is a quick and gentle introduction to training a Deep Neural Netwo
 #                           linear6,dropout,relu,
 #                           sigmoid
 ```
+
+This model is fairly simple and there was no cross-validation / hyperparameter tuning to improve the model, but I hope this a nice introduction on how to implement a Deep Neural Network in PyTorch!
